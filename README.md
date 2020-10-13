@@ -8,4 +8,4 @@ TO INSTALL
 TO RUN
 `yarn ios`
 
-![Screen](Screenshot 2020-10-13 at 23.06.41.png)
+![Screen](https://github.com/andreadito/transactions-insights-app/blob/main/Screenshot%202020-10-13%20at%2023.06.41.png)
